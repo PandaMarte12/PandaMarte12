@@ -51,7 +51,7 @@ Actualmente desarrollo soluciones tecnológicas para análisis de información, 
 
 | Período | Organización | Rol |
 | --- | --- | --- |
-| 2020 - Actual | Dirección Nacional de Control de Drogas (DNCD) | Ingeniero de Software - Análisis de Información |
+| 2020 - Actual | Empresa de análisis y procesamiento de informaciones (Propia) | Ingeniero de Software - Análisis de Información |
 | 2019 - 2020 | Ejército de República Dominicana | Analista de Sistemas |
 | 2017 - 2019 | Claro / Opitel | Técnico en Sistemas |
 | 2016 - 2017 | Wilmer Tec/Comp | Técnico en Informática |
