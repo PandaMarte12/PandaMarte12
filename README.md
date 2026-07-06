@@ -58,7 +58,7 @@ Actualmente desarrollo soluciones tecnológicas para análisis de información, 
 
 ### Proyectos destacados
 
-**SAIP - Sistema de Análisis de Informaciones Panda**  
+**SAIPA - Sistema de Análisis de Informaciones Panda**  
 Plataforma avanzada para gestión, análisis y visualización de información estratégica, con integración de mapas, reportes y procesos de apoyo a decisiones.
 
 **PANDA MARS**  
@@ -67,7 +67,7 @@ Plataforma multiplataforma orientada a análisis, gestión, generación de repor
 **Aplicaciones Web Empresariales**  
 Desarrollo de soluciones con ASP.NET Core, SQL Server y arquitecturas escalables, orientadas a eficiencia operativa y mantenimiento sostenible.
 
-> Algunos proyectos son institucionales o privados por razones de seguridad, confidencialidad y propiedad operativa.
+> Algunos proyectos son privados por razones de seguridad, confidencialidad y propiedad operativa.
 
 ### Fortalezas profesionales
 
